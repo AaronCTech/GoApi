@@ -1,4 +1,4 @@
-# GoApi
+# go-api
 
 A simple API written in Go.
 
@@ -9,14 +9,14 @@ A simple API written in Go.
 
 ## Getting Started
 
-run "git clone https://github.com/AaronCTech/GoApi.git" in your favorite project directory on your computer to download the project. GitHub will also allow a direct download via a zip file from the project.
+run "git clone https://github.com/AaronCTech/go-api.git" in your favorite project directory on your computer to download the project. GitHub will also allow a direct download via a zip file from the project.
 
 ## Running the application
 
-To run the application, open your favorite command line tool (CMD/Powershell/Bash), enter the GoApi directory, and run "go run main.go". This will invoke Go's built in run tool. Visit localhost:8280 in your browser, and behold!
+To run the application, open your favorite command line tool (CMD/Powershell/Bash), enter the go-api directory, and run "go run main.go". This will invoke Go's built in run tool. Visit localhost:8280 in your browser, and behold!
 
 ## Building an executable
 
-To build a binary, run "go build ." from the GoApi directory, and you will see a new file "GoApi.exe" appear if you are on Windows, or "GoApi" appear on Linux. These are standalone applications, and can be executed on ANY system without the need to install any dependencies.
+To build a binary, run "go build ." from the go-api directory, and you will see a new file "go-api.exe" appear if you are on Windows, or "go-api" appear on Linux. These are standalone applications, and can be executed on ANY system without the need to install any dependencies.
 
 It should be noted that this service uses an absolutely mind-blowingly low amount of memory (2mb) due to its being compiled down to a system-level executable.
